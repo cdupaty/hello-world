@@ -3,7 +3,7 @@
 int main(void) 
 {
 	printf("Salut tout le monde");
-	printf("comment allez vous ?")
+	printf("comment allez vous bien ?")
 	return(0);
 }
 
