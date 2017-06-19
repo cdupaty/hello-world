@@ -3,7 +3,6 @@
 int main(void) 
 {
 	printf("Salut tout le monde");
-	
 	return(0);
 }
 
